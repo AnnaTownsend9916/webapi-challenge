@@ -26,24 +26,34 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] Mention two parts of Express that you learned about this week.
 
+I learned about middleware, it lets you have more functionality to your api endpoint. I also learned about routers like the ones in react which help create urls that routes the user to different spots. 
+
 - [ ] Describe Middleware?
+
+Middleware provide a way to extend features provided by express framework
 
 - [ ] Describe a Resource?
 
+Something you can refer to for help
+
 - [ ] What can the API return to help clients know if a request was successful?
 
+The response status they get shows if it was successful or if there was a server error witht the number it gives back.
+
 - [ ] How can we partition our application into sub-applications?
+
+You have files with specific routes and files that hold a port for the server to listen, partition makes it more managable
 
 ## Project Setup
 
 Follow these steps to set up and work on your project:
 
-- [ ] Create a forked copy of this project.
+- [ x] Create a forked copy of this project.
 - [ ] Add your _Project Manager_ as collaborator on Github.
-- [ ] Clone your forked version of the Repository.
-- [ ] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
-- [ ] Implement the project on this Branch, committing changes regularly.
-- [ ] Push commits: git push origin `<firstName-lastName>`.
+- [ x] Clone your forked version of the Repository.
+- [ x] Create a new Branch on the clone: git checkout -b `<firstName-lastName>`.
+- [ x] Implement the project on this Branch, committing changes regularly.
+- [ x] Push commits: git push origin `<firstName-lastName>`.
 
 Follow these steps for completing your project.
 
